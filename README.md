@@ -2,7 +2,7 @@
 Bài thực hành của em là  trang web gồm 3 trang chính là trang chủ, trang chi tiết sản phẩm và tài khoản. Website bán quần áo, giày, đồng hồ tập thể thao. Nội dung các trang: 
 #### 1.Trang chủ bố cúc Trang của em chia làm 3 phần: phần đầu chứa menu + phần hai chứa nội dung, giới thiệu + cuối cùng là footer.
 ##### Phần đầu tiền: 
- +) Về HTML: em có tạo ra 1 div lớn header bên trong có container chứa ảnh logo  và menu dung trang,  trong container  có max-width 1300px, margin: auto;  trong container em chia 2 phần thẻ div(navbar) và div(row). Div navbar gồm logo và menu, div row chứa thẻ< h1>,<p>, <img>.<br>
+ +) Về HTML: em có tạo ra 1 div lớn header bên trong có container chứa ảnh logo  và menu dung trang,  trong container  có max-width 1300px, margin: auto;  trong container em chia 2 phần thẻ div(navbar) và div(row). Div navbar gồm logo và menu, div row chứa thẻ< h1>.<br>
  +) Về CSS: .container, .row, .navbar,… +) Về javascript: thì em có sử dụng sự kiện onckick menuItems giúp khi màn kích thước bị thu nhỏ sẽ ẩn  đi.<br>
  ##### Phần hai:
  +) về HTML gồm 3 div chính: div categories chứa ảnh, div small-container các sản phẩm nổi bật và phẩm mới. div offer sản phẩm Smart Band 4 độc quyền, div testimonial giới thiệu.<br>
@@ -16,7 +16,7 @@ phần chi tiết sản phẩm:
  +) Về CSS: .row-2, select:focus, .page-btn span,.. <br>
 #### 3. Trang taikhoan gồm 3 phần đầu menu như trang chủ, phần hai đăng kí, đăng nhập, phần ba footer như trang chủ.
 Phần đăng kí, đăng nhâp: 
- +Về HTML gồm 1 div lớn account-page, và 2 form loginform và regform có các thẻ <input> để nhập thông tin, <button>. <br> 
+ +Về HTML gồm 1 div lớn account-page, và 2 form loginform và regform có các thẻ <input> để nhập thông tin. <br> 
  +) CSS: .form-container form, form input, #LoginForm,... <br>
 Và em có sử dụng responsive cho các trang của mình.
 
