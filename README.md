@@ -3,6 +3,7 @@ Bài thực hành của em là  trang web gồm 3 trang chính là trang chủ, 
 #### 1.Trang chủ bố cúc Trang của em chia làm 3 phần: phần đầu chứa menu + phần hai chứa nội dung, giới thiệu + cuối cùng là footer.
 ##### Phần đầu tiền: 
 +) Về HTML: em có tạo ra 1 div lớn header bên trong có container chứa ảnh logo  và menu dung trang,  trong container  có max-width 1300px, margin: auto;  trong container em chia 2 phần thẻ div(navbar) và div(row). Div navbar gồm logo và menu, div row chứa thẻ< h1>,<p>, <img>.+) Về CSS: .container, .row, .navbar,… +) Về javascript: thì em có sử dụng sự kiện onckick menuItems giúp khi màn kích thước bị thu nhỏ sẽ ẩn  đi.
+  ![anh1](https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/130832517_2695203397477029_2501507037350935520_n.png?_nc_cat=104&ccb=2&_nc_sid=58c789&_nc_ohc=fJeKKhvTtt0AX9MGSmB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=8a3db123932a4f66371a8c0dce513151&oe=60023F0C)
  ##### Phần hai:
  +) về HTML gồm 3 div chính: div categories chứa ảnh, div small-container các sản phẩm nổi           bật và phẩm mới. div offer sản phẩm Smart Band 4 độc quyền, div testimonial giới thiệu. +) về CSS:  .small-container, .title::after, .offer, .testimonial,…
 ##### Phần ba:
@@ -12,4 +13,4 @@ phần chi tiết sản phẩm: +) về HTML gồm div small-container lựa ch�
 #### 3. Trang taikhoan gồm 3 phần đầu menu như trang chủ, phần hai đăng kí, đăng nhập, phần ba footer như trang chủ.
 Phần đăng kí, đăng nhâp: về HTML gồm 1 div lớn account-page, và 2 form loginform và regform có các thẻ <input> để nhập thông tin, <button> . +) CSS: .form-container form, form input, #LoginForm,..
 Và em có sử dụng responsive cho các trang của mình.
- ![anh1](https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/130832517_2695203397477029_2501507037350935520_n.png?_nc_cat=104&ccb=2&_nc_sid=58c789&_nc_ohc=fJeKKhvTtt0AX9MGSmB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=8a3db123932a4f66371a8c0dce513151&oe=60023F0C)
+
