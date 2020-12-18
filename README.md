@@ -12,3 +12,4 @@ phần chi tiết sản phẩm: +) về HTML gồm div small-container lựa ch�
 #### 3. Trang taikhoan gồm 3 phần đầu menu như trang chủ, phần hai đăng kí, đăng nhập, phần ba footer như trang chủ.
 Phần đăng kí, đăng nhâp: về HTML gồm 1 div lớn account-page, và 2 form loginform và regform có các thẻ <input> để nhập thông tin, <button> . +) CSS: .form-container form, form input, #LoginForm,..
 Và em có sử dụng responsive cho các trang của mình.
+ ![anh1](https://scontent.xx.fbcdn.net/v/t1.15752-0/p206x206/130832517_2695203397477029_2501507037350935520_n.png?_nc_cat=104&ccb=2&_nc_sid=58c789&_nc_ohc=fJeKKhvTtt0AX9MGSmB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_tp=30&oh=8a3db123932a4f66371a8c0dce513151&oe=60023F0C)
